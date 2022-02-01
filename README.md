@@ -1,2 +1,2 @@
 # wpu-git-test
-Repo untuk mencuba git remote
+Repo untuk mencuba git remote.
